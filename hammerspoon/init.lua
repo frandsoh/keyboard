@@ -36,7 +36,7 @@ require('keyboard.delete-words')
 require('keyboard.hyper')
 require('keyboard.markdown')
 require('keyboard.microphone')
-require('keyboard.panes')
+-- require('keyboard.panes')
 require('keyboard.windows')
 
 hs.notify.new({title='Hammerspoon', informativeText='Ready to rock 🤘'}):send()
